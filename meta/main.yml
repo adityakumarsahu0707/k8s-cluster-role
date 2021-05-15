@@ -41,7 +41,7 @@ galaxy_info:
     - cluster
     - aws
     - docker
-    - master_slave
+    - masterslave
     - performance
       # license: license (GPL-2.0-or-later, MIT, etc)
 
